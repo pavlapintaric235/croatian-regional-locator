@@ -1,0 +1,1574 @@
+[
+  {
+    "name": "Bakar",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Littoral",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Beli Manastir",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Baranja",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Belišće",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Benkovac",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Biograd na Moru",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Bjelovar",
+    "county": "Bjelovar-Bilogora County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Bilogora",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Buje",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Buzet",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Cres",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner Islands",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Crikvenica",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Littoral",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Daruvar",
+    "county": "Bjelovar-Bilogora County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Western Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Delnice",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Gorski Kotar",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Donja Stubica",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Donji Miholjac",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      },
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Drniš",
+    "county": "Šibenik-Knin County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Dubrovnik",
+    "county": "Dubrovnik-Neretva County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dubrovnik Region",
+        "category": "historical"
+      }
+    ]
+  },
+  {
+    "name": "Duga Resa",
+    "county": "Karlovac County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Pokuplje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Dugo Selo",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Garešnica",
+    "county": "Bjelovar-Bilogora County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Moslavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Glina",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Banovina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Gospić",
+    "county": "Lika-Senj County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Lika",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Grubišno Polje",
+    "county": "Bjelovar-Bilogora County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Bilogora",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Hrvatska Kostajnica",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Banovina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Hvar",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Hvar Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Ilok",
+    "county": "Vukovar-Syrmia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Syrmia",
+        "category": "historical"
+      }
+    ]
+  },
+  {
+    "name": "Imotski",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ivanec",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ivanić-Grad",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Moslavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Jastrebarsko",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      },
+      {
+        "name": "Pokuplje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Karlovac",
+    "county": "Karlovac County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Pokuplje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Kastav",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Kaštela",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Klanjec",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Knin",
+    "county": "Šibenik-Knin County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Komiža",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Vis Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Koprivnica",
+    "county": "Koprivnica-Križevci County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Korčula",
+    "county": "Dubrovnik-Neretva County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Korčula Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Kraljevica",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Littoral",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Krapina",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Križevci",
+    "county": "Koprivnica-Križevci County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Krk",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner Islands",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Kutina",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Moslavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Kutjevo",
+    "county": "Požega-Slavonia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Labin",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Lepoglava",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Lipik",
+    "county": "Požega-Slavonia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Western Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ludbreg",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Makarska",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Mali Lošinj",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner Islands",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Metković",
+    "county": "Dubrovnik-Neretva County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Neretva Valley",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Mursko Središće",
+    "county": "Međimurje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Međimurje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Našice",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Nin",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Nova Gradiška",
+    "county": "Brod-Posavina County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Posavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Novalja",
+    "county": "Lika-Senj County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Pag Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Novi Marof",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Novi Vinodolski",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Littoral",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Novigrad",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Novska",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Western Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Posavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Obrovac",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ogulin",
+    "county": "Karlovac County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Ogulin-Plaški Valley",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Omiš",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Opatija",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Opuzen",
+    "county": "Dubrovnik-Neretva County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Neretva Valley",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Orahovica",
+    "county": "Virovitica-Podravina County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Oroslavje",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Osijek",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Otok",
+    "county": "Vukovar-Syrmia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Syrmia",
+        "category": "historical"
+      }
+    ]
+  },
+  {
+    "name": "Otočac",
+    "county": "Lika-Senj County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Lika",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ozalj",
+    "county": "Karlovac County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Pokuplje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Pag",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Pag Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Pakrac",
+    "county": "Požega-Slavonia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Western Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Pazin",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Petrinja",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Banovina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Pleternica",
+    "county": "Požega-Slavonia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Ploče",
+    "county": "Dubrovnik-Neretva County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Neretva Valley",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Popovača",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Moslavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Poreč",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Požega",
+    "county": "Požega-Slavonia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Pregrada",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Prelog",
+    "county": "Međimurje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Međimurje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Pula",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Rab",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      },
+      {
+        "name": "Kvarner Islands",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Rijeka",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kvarner",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Rovinj",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Samobor",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Senj",
+    "county": "Lika-Senj County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Littoral",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Sinj",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Sisak",
+    "county": "Sisak-Moslavina County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Posavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Skradin",
+    "county": "Šibenik-Knin County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Slatina",
+    "county": "Virovitica-Podravina County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      },
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Slavonski Brod",
+    "county": "Brod-Posavina County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Posavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Slunj",
+    "county": "Karlovac County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Kordun",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Solin",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Split",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Stari Grad",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Hvar Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Supetar",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Brač Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Sveta Nedelja",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Sveti Ivan Zelina",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Trilj",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Trogir",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Umag",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Valpovo",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Varaždin",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      },
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Varaždinske Toplice",
+    "county": "Varaždin County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Velika Gorica",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Turopolje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vinkovci",
+    "county": "Vukovar-Syrmia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Syrmia",
+        "category": "historical"
+      }
+    ]
+  },
+  {
+    "name": "Virovitica",
+    "county": "Virovitica-Podravina County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      },
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vis",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Vis Island",
+        "category": "geographical"
+      }
+    ]
+  },
+  {
+    "name": "Vodice",
+    "county": "Šibenik-Knin County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vodnjan",
+    "county": "Istria County",
+    "broad_region": "Northern Adriatic Croatia",
+    "traditional_regions": [
+      {
+        "name": "Istria",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vrbovec",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vrbovsko",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Gorski Kotar",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vrgorac",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vrlika",
+    "county": "Split-Dalmatia County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      },
+      {
+        "name": "Dalmatian Hinterland",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Vukovar",
+    "county": "Vukovar-Syrmia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Syrmia",
+        "category": "historical"
+      }
+    ]
+  },
+  {
+    "name": "Zabok",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Zadar",
+    "county": "Zadar County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Zagreb",
+    "county": "City of Zagreb",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Zaprešić",
+    "county": "Zagreb County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Prigorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Zlatar",
+    "county": "Krapina-Zagorje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Croatian Zagorje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Čabar",
+    "county": "Primorje-Gorski Kotar County",
+    "broad_region": "Mountainous Croatia",
+    "traditional_regions": [
+      {
+        "name": "Gorski Kotar",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Čakovec",
+    "county": "Međimurje County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Međimurje",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Čazma",
+    "county": "Bjelovar-Bilogora County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Moslavina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Đakovo",
+    "county": "Osijek-Baranja County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Đurđevac",
+    "county": "Koprivnica-Križevci County",
+    "broad_region": "Central Croatia",
+    "traditional_regions": [
+      {
+        "name": "Podravina",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Šibenik",
+    "county": "Šibenik-Knin County",
+    "broad_region": "Dalmatia",
+    "traditional_regions": [
+      {
+        "name": "Dalmatia",
+        "category": "traditional"
+      }
+    ]
+  },
+  {
+    "name": "Županja",
+    "county": "Vukovar-Syrmia County",
+    "broad_region": "Eastern Croatia",
+    "traditional_regions": [
+      {
+        "name": "Slavonia",
+        "category": "traditional"
+      },
+      {
+        "name": "Posavina",
+        "category": "traditional"
+      }
+    ]
+  }
+]
