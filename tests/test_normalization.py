@@ -20,6 +20,9 @@ from croatian_locator.normalization import normalize_text
         ("PULA", "pula"),
         ("pula", "pula"),
         ("  ČAKOVEC  ", "cakovec"),
+        ("Nova Gradiška", "nova gradiska"),
+        ("Veli Lošinj", "veli losinj"),
+        ("  Velika Gorica  ", "velika gorica"),
     ],
 )
 def test_normalize_text(value: str, expected: str):

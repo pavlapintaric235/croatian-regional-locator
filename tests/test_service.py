@@ -66,7 +66,9 @@ def service(cakovec: City) -> CroatianLocationService:
     return CroatianLocationService(cities)
 
 
-def test_find_city_with_exact_name(service: CroatianLocationService, cakovec: City):
+def test_find_city_with_exact_name(
+    service: CroatianLocationService,
+    cakovec: City):
     city = service.find_city("Čakovec")
 
     assert city is cakovec
@@ -84,14 +86,21 @@ def test_find_city_with_uppercase_name(service: CroatianLocationService):
     assert city.name == "Čakovec"
 
 
-def test_find_city_without_diacritics(service: CroatianLocationService):
-    cakovec = service.find_city("Cakovec")
-    sibenik = service.find_city("Sibenik")
-    dakovo = service.find_city("Dakovo")
+@pytest.mark.parametrize(
+    ("search_value", "expected_name"),
+    [
+        ("Cakovec", "Čakovec"),
+        ("Sibenik", "Šibenik"),
+        ("Dakovo", "Đakovo"),
+    ],
+)
+def test_find_city_without_diacritics(
+    service: CroatianLocationService,
+    search_value: str,
+    expected_name: str):
+    city = service.find_city(search_value)
 
-    assert cakovec.name == "Čakovec"
-    assert sibenik.name == "Šibenik"
-    assert dakovo.name == "Đakovo"
+    assert city.name == expected_name
 
 
 def test_find_city_ignores_surrounding_whitespace(service: CroatianLocationService):

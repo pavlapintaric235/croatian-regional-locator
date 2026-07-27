@@ -66,7 +66,7 @@ def test_city_can_have_multiple_traditional_regions():
     )
 
     city = City(
-        name="Vukovar",
+        name="Vinkovci",
         county=county,
         broad_region=broad_region,
         traditional_regions=(slavonia, syrmia),
@@ -81,7 +81,8 @@ def test_dataclass_objects_compare_by_value():
     second_county = County(name="Istria County")
 
     assert first_county == second_county
-    """the test proves that the dataclass compares County objects by their stored attribute values, not whether both variables point to the exact same object"""
+    assert first_county is not second_county
+
 
 def test_county_is_frozen():
     county = County(name="Istria County")
