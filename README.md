@@ -295,11 +295,9 @@ The regional values in this project are intended as practical educational classi
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/croatian-regional-locator.git
+git clone https://github.com/pavlapintaric235/croatian-regional-locator.git
 cd croatian-regional-locator
 ```
-
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Create a virtual environment
 
