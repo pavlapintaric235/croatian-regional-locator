@@ -1,8 +1,10 @@
 # Croatian Regional Locator
 
 Croatian Regional Locator is a Python command-line application that identifies the official Croatian county, broad geographical region, and one or more traditional, historical, or geographical regions associated with a Croatian city.
-**Demo Video** - https://lnkd.in/p/dyP297Hp
+
 The project contains 128 Croatian city-level entries and supports searches both with and without Croatian diacritics.
+
+**Demo Video** - https://lnkd.in/p/dyP297Hp
 
 ## Features
 
